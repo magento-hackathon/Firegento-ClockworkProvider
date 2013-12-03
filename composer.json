@@ -1,0 +1,17 @@
+{
+    "name": "Firegento/ClockworkProvider",
+    "license": "MIT",
+    "type": "magento-module",
+    "description": "This extension serves as provider for the php clockwork API",
+    "require": {
+        "firegento/psr0autoloader": "dev-master",
+        "itsgoingd/clockwork": "dev-master",
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Daniel Fahlke aka Flyingmana",
+            "email":"flyingmana@googlemail.com"
+        }
+    ]
+}
